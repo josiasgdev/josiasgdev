@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem-vindo(a) ao meu github, eu sou o Josias Gonçalves 👋🏽
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://](https://www.linkedin.com/in/josias-gon%C3%A7alves-643839224/))
 
-<!--
-**josiasgdev/josiasgdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Josias's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasgdev&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasgdev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## Tecnologias em foco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</div><br/>
+
+Apaixonado por tecnologia e entusiasta do desenvolvimento WEB e Mobile
