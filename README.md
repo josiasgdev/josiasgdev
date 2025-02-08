@@ -1,6 +1,12 @@
-## Bem-vindo(a) ao meu github, eu sou o Josias Gonçalves 👋🏽
+## Bem-vindo(a) ao meu github!👋🏽
 
-Antes, entusiasta das tecnologias front-end, tais como JavaScript, CSS e HTML, após um estudo mais profundo sobre a linguagem PHP, tornei-me fascinado por todo o contexto por trás da produção visual e lógica de uma interface. Atualmente, busco aperfeiçoar meus conhecimentos e a prática nas tecnologias mais utilizadaspara desenvolvimento web.
+### Sobre mim:
+
+* Eu sou o Josias Gonçalves e tenho 27 anos 🙋🏾‍♂️
+* Moro em Salvador, Bahia 📍
+* Estou cursando Análise e Desenvolvimento de Sistemas 👨🏾‍💻
+
+Antes, entusiasta das tecnologias front-end, tais como JavaScript, CSS e HTML, após um estudo mais profundo sobre a linguagem PHP, tornei-me fascinado por todo o contexto por trás da produção visual e lógica de uma interface. Atualmente, busco aperfeiçoar meus conhecimentos e a prática nas tecnologias mais utilizadas para desenvolvimento web para conseguir uma vaga como Desenvolvedor jr.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://](https://www.linkedin.com/in/josias-gon%C3%A7alves-643839224/))
