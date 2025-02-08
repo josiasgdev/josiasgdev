@@ -3,8 +3,10 @@
 ### Sobre mim:
 
 * Eu sou o Josias Gonçalves e tenho 27 anos 🙋🏾‍♂️
+* Sou cristão ✝️
 * Moro em Salvador, Bahia 📍
-* Estou cursando Análise e Desenvolvimento de Sistemas 👨🏾‍💻
+* Possuo nível técnico em Mecatrônica 🤖 e Análise e Desenvolvimento de Sistemas 💻
+* Estou graduando em Análise e Desenvolvimento de Sistemas 👨🏾‍💻
 
 Antes, entusiasta das tecnologias front-end, tais como JavaScript, CSS e HTML, após um estudo mais profundo sobre a linguagem PHP, tornei-me fascinado por todo o contexto por trás da produção visual e lógica de uma interface. Atualmente, busco aperfeiçoar meus conhecimentos e a prática nas tecnologias mais utilizadas para desenvolvimento web para conseguir uma vaga como Desenvolvedor jr.
 
